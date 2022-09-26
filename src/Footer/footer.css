@@ -1,0 +1,19 @@
+.footer {
+  padding: 1.25em 2.25em;
+  margin: 0;
+  justify-content: center;
+  font-size: larger;
+  text-align: center;
+  /* background: linear-gradient(90deg, #ced4da 1.18%, #adb5bd); */
+  color: black;
+}
+
+.footer--link {
+  text-decoration: none;
+  color: black;
+}
+
+.footer--link:hover {
+  text-decoration: underline;
+  color: black;
+}
